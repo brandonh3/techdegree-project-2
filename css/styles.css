@@ -48,6 +48,10 @@ headline,
   color: #e7e7e7;
 }
 
+.main-footer a:visited {
+  color: #e7e7e7;
+}
+
 
 /* =================================
   Base Layout Styles
