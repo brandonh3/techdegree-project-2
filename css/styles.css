@@ -33,7 +33,6 @@ a:visited {
 h1,
 h2,
 h3,
-headline,
 .main-nav li {
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 700;
@@ -131,10 +130,6 @@ headline,
 
 .card article {
   padding-top: 1em;
-}
-
-headline {
-  font-size: 2em;
 }
 
 article p {
