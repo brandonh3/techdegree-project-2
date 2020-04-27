@@ -119,6 +119,10 @@ h3,
   color: #e7e7e7;
 }
 
+.footer-nav a:hover {
+  color: #059ea3;
+}
+
 /* ---- Page Elements ---- */
 
 .main-container h2 {
