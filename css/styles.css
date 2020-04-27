@@ -115,6 +115,10 @@ headline,
   background-color: #fff;
 }
 
+.main-footer a {
+  color: #e7e7e7;
+}
+
 .main-footer a:visited {
   color: #e7e7e7;
 }
@@ -192,6 +196,7 @@ footer span {
 }
 
 .backtop {
+  color: #e7e7e7;
   float: right;
   text-transform: uppercase;
 }
