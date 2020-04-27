@@ -101,13 +101,6 @@ h3,
   color: #e7e7e7;
 }
 
-.portfolio {
-  padding: .5em;
-  font-size: 2em;
-  text-transform: uppercase;
-  margin: 1em 0;
-}
-
 .main-container {
   text-align: center;
   padding: 1em;
@@ -123,6 +116,16 @@ h3,
 }
 
 /* ---- Page Elements ---- */
+
+.main-container h2 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+.portfolio {
+  text-transform: uppercase;
+  padding-top: 1em;
+}
 
 .card img {
   padding: 1em 0;
